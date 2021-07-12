@@ -5,11 +5,11 @@ on:
     branches:
       - "**"
     paths:
-      - "packages/container/**"
+      - "02-mfp/packages/container/**"
 
 defaults:
   run:
-    working-directory: packages/container
+    working-directory: 02-mfp/packages/container
 
 jobs:
   build:
