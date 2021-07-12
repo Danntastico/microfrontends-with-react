@@ -1,4 +1,4 @@
-name: deploy-container
+name: mfp-deploy-container
 
 on:
   push:
